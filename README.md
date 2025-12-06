@@ -2,11 +2,13 @@
 
 Code and analysis for the paper: **Bridging Nodes and Narrative Flows: Identifying Intervention Targets for Disinformation on Telegram**
 
-- Presented at the [Stanford Trust and Safety Research Conference 2024.](https://conferences.law.stanford.edu/tsrc/session-track/poster-session/#:~:text=Bridging%20Nodes%20and%20Narrative%20Flows%3A%20A%20Graph%2DTheoretic%20Analysis%20of%20Telegram%E2%80%99s%20Disinformation%20Ecosystem.%0ADevang%20Shah%2C%20SimPPL)
+- Presented at the [Stanford Trust and Safety Research Conference 2024.](https://conferences.law.stanford.edu/tsrc/session-track/poster-session/#:~:text=Bridging%20Nodes%20and%20Narrative%20Flows)
 
 - [arXiv:2411.05922](https://arxiv.org/abs/2411.05922)
 
-- Invited talk at [Team Cymru’s Underground Economy Conference 2024.](https://docs.google.com/presentation/d/1EN5nq9WGwTpJqCTJsv9Hr6S3XNgmHAnkPdCL-owmXO4/edit?usp=sharing)
+- Invited talk at [Team Cymru’s Underground Economy Conference 2024.](https://drive.google.com/file/d/1L2FzFnTbN4qnj_x9D7ikWhHeKgUw4j9x/)
+
+- Teaching session for [NEST Mongolia](https://www.nestmongolia.org/) | [Slides](https://drive.google.com/file/d/1flHXeRSyaHomhs2i5OWxVgZpB8kyiPp8/)
 
 ## Code for scraping Telegram channels via Telethon API
 
