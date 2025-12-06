@@ -10,6 +10,8 @@ Code and analysis for the paper: **Bridging Nodes and Narrative Flows: Identifyi
 
 - Teaching session for [NEST Mongolia](https://www.nestmongolia.org/) | [Slides](https://drive.google.com/file/d/1flHXeRSyaHomhs2i5OWxVgZpB8kyiPp8/)
 
+- Research featured on [DisinfoDocket](https://www.disinfodocket.com/plus-18nov24/#:~:text=Bridging%20Nodes%20and%20Narrative%20Flows)
+
 ## Code for scraping Telegram channels via Telethon API
 
 Navigate to branch: [scraping](https://github.com/Devang-Shah-49/telegram-narrative-flows/tree/scraping)
