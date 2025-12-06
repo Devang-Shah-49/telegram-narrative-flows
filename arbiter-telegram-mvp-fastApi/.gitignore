@@ -1,0 +1,36 @@
+#Virtual environment
+.env
+venv
+env
+venv3
+
+#Cache Files
+*.pyc
+__pycache__
+arbiter/arbiter/__pycache__/
+arbiter/report/__pycache__/
+arbiter/report/migrations/__pycache__/
+/simppl_env
+#Logs
+*.log
+
+#Local env
+.env
+
+#IDE
+.idea
+
+#Database
+.tmp
+*.parquet
+*.csv
+
+jenil's pc.pem
+arbiter/arbiter/.duckdb/extensions/
+*.DS_Store
+
+*.jsonl
+output
+embeddings
+.insta.swp
+session-api.json
